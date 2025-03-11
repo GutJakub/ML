@@ -1,0 +1,3 @@
+conda env list
+tworzenie 3 srodowisk dla DataScience podanych na stronie upelowskiej
+conda create cos tam do sprawdzenia z czatem na wlaczenie
